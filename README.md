@@ -4,7 +4,7 @@ An ADA complient web form, includes the following accessability features:
 * Strong opposing contrast for all colors
 * Fields highlight as they are selected (including image)
 * Everything is usable using keyboard input (tab to nagivate form and enter to submit)
-* All boxes and image include alt text for visually impaired users
+* All boxes and image include alt text for visually impaired users (works with screen reader)
 * Font 16pt, scalable using keyboard short cuts
 \
 \
