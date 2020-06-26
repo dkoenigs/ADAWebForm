@@ -8,4 +8,6 @@ An ADA complient web form, includes the following accessability features:
 * Font 16pt, scalable using keyboard short cuts
 \
 \
-Source: https://www.zaginteractive.com/insights/march-2018/comparing-website-ada-levels#:~:text=Level%20AAA%20captures%20all%20conformance,and%20functionality%20of%20your%20site.
+ADA Source: [link](https://www.zaginteractive.com/insights/march-2018/comparing-website-ada-levels#:~:text=Level%20AAA%20captures%20all%20conformance,and%20functionality%20of%20your%20site.)
+\
+Website Link: [link](https://dkoenigs.github.io/ADAWebForm/)
